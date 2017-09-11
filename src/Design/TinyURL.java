@@ -68,11 +68,5 @@ public class TinyURL {
         System.out.println(short2);
         System.out.println(test.decode(short1));
         System.out.println(test.decode(short2));
-       // String short11 = test.encode2(s1);
-       // String short22 = test.encode2(s2);
-       // System.out.println(short11);
-       // System.out.println(short22);
-       // System.out.println(test.decode2(short11));
-       // System.out.println(test.decode2(short22));
     }
 }

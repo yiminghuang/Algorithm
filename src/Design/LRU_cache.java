@@ -83,8 +83,6 @@ public class LRU_cache {
 		System.out.println(test.get(2));
 		test.put(4, 4);
 		System.out.println(test.get(1));
-		//test.put(1, 1000);
-		//test.put(4, 4);
 		System.out.println(test.get(3));
 		System.out.println(test.get(4));
 	}
